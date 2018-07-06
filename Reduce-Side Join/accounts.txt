@@ -1,0 +1,4 @@
+001	JohnAllenStandard	2012-03-15
+002	AbigailSmithPremium	2004-07-13
+003	AprilStevensStandard	2010-12-20
+004	NasserHafezPremium	2001-04-23

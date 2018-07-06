@@ -1,0 +1,6 @@
+Needs Hadoop 1.x installed.
+
+To run -> 
+1- Cop the file sales.txt into HDFS as sales/sales.txt , accounts.txt as accounts/accounts.txt
+2- Run the command  - hadoop jar join.jar sales accounts output1
+3- To view the result , browse the hdfs filesystem.
