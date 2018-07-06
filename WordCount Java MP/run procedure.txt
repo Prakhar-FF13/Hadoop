@@ -1,0 +1,6 @@
+Needs Hadoop 1.x installed.
+
+To run -> 
+1- Create any input file and put it in HDFS
+2- Run the command  - hadoop jar wc1 input_filename output_filename
+3- To view the result , browse the hdfs filesystem.
