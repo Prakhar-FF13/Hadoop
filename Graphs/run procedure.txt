@@ -1,0 +1,9 @@
+Needs Hadoop 1.x installed.
+
+To run -> 
+1- Cop the file graph.txt into HDFS as graphin/sales.txt
+2- Run the command  - hadoop jar graph.jar graphin output1
+3- To view the result , browse the hdfs filesystem.
+4- Node some of the nodes might still not be completed. To complete run the code above again but this time provide output1 as input and output2 as output
+hadoop jar graph.jar output1 output2
+5- See the result gain, if still all nodes are not processed. Run the command again with output2 as input and output3 as output, run the command until all nodes are done. 
